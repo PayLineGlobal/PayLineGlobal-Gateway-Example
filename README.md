@@ -33,8 +33,5 @@ PayLineGlobal isn't just a platform; it's your financial compass, guiding you to
 
 ## How can i connect PayLineGlobal as a Payment Method on my website or mobile app?
 
-Please visit our website, and go to the "Developer" page.
-
-
-Thank you for considering contributing to the PayLineGlobal Comuunity!
+Please visit our website, and go to the "<a href="https://paylineglobal.com/developer" target="_blank">Developer</a>" page.
 
