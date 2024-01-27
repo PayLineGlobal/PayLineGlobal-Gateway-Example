@@ -1,50 +1,39 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
+<p align="center"><a href="https://paylineglobal.com" target="_blank"><img src="https://raw.githubusercontent.com/PayLineGlobal/PayLineGlobal-Gateway-Example-main/main/public/paylineglobal/logo.png" width="400" alt="PayLineGlobal Logo"></a></p>
 
-<p align="center">
-<a href="https://github.com/laravel/framework/actions"><img src="https://github.com/laravel/framework/workflows/tests/badge.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/dt/laravel/framework" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/v/laravel/framework" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
-</p>
+## About PayLineGlobal
 
-## About Laravel
+PayLineGlobal is a comprehensive smart payments and payouts platform that lets you send and receive money, make online payments, manage your finances, and more – all in one place. Our innovative payment solution allows you to pay and get paid easily and securely using smart features and a wide-range of methods. With just a simple click, you can send or receive funds in no time, eliminating the need for manual entry or complication. 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
+Imagine a platform that empowers you to send, receive, and manage your money seamlessly, whether you're sipping coffee in Dubai or trading in Tokyo. PayLineGlobal bridges the gap between you and your finances, offering a secure and convenient hub for all your payment needs.
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+## Why PayLineGlobal is Important?
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+In today's fast-paced world, time is money, and PayLineGlobal understands that. It tackles common payment issues like:
 
-## Learning Laravel
+- Friction in transactions: Long checkout processes, currency conversions, and international limitations can hinder your financial activities. PayLineGlobal streamlines transactions, offering a variety of secure payment methods like cards, mobile wallets, and even innovative QR code payments.
+- Global limitations: Expanding your reach beyond borders shouldn't be a financial feat. PayLineGlobal makes international transactions a breeze, empowering you to send and receive money across the globe with ease.
+- Business complexities: Managing payment processing for your business can be a tangled mess. PayLineGlobal offers tailored solutions for businesses of all sizes, simplifying operations, providing valuable data insights, and boosting growth.
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+PayLineGlobal is accessible, powerful, and provides tools required for both individuals and merchants.
 
-You may also try the [Laravel Bootcamp](https://bootcamp.laravel.com), where you will be guided through building a modern Laravel application from scratch.
+## What does PayLineGlobal have in its treasure chest?
 
-If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 2000 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
+Our innovative payment solution allows you to pay and get paid easily and securely using smart features and a wide-range of methods. With just a simple click, you can send or receive funds in no time, eliminating the need for manual entry or complication.
 
-## Laravel Sponsors
+- Seamless Transactions: From traditional cards and mobile wallets to cutting-edge QR code payments, PayLineGlobal offers a plethora of secure and convenient options to send, receive, and manage your money.
+- Global Reach: Break down financial borders and connect with the world. Send and receive money internationally with confidence, expanding your financial horizons.
+- Business Solutions: Streamline your operations with PayLineGlobal's comprehensive suite of payment processing tools. Accept payments from anywhere, gain valuable data insights, and fuel your business growth.
+- Financial Empowerment: Take control of your finances with expert guidance. Learn budgeting tips, explore investment strategies, and unlock valuable resources to achieve financial freedom.
+- Continuous Innovation: PayLineGlobal stays ahead of the curve, keeping you informed about industry trends and emerging technologies in the financial landscape.
 
-We would like to extend our thanks to the following sponsors for funding Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](https://patreon.com/taylorotwell).
+## Ready to set sail on a smoother financial journey?
 
-## Contributing
+PayLineGlobal isn't just a platform; it's your financial compass, guiding you towards effortless management and empowering you to reach your financial goals. Dive deeper into the world of PayLineGlobal on their website and discover how it can become your go-to solution for navigating the ever-changing financial seas.
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](https://laravel.com/docs/contributions).
+## How can i connect PayLineGlobal as a Payment Method on my website or mobile app?
 
-## Code of Conduct
+Please visit our website, and go to the "Developer" page.
 
-In order to ensure that the Laravel community is welcoming to all, please review and abide by the [Code of Conduct](https://laravel.com/docs/contributions#code-of-conduct).
 
-## Security Vulnerabilities
+Thank you for considering contributing to the PayLineGlobal Comuunity!
 
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell via [taylor@laravel.com](mailto:taylor@laravel.com). All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
