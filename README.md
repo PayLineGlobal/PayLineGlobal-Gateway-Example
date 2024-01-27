@@ -1,5 +1,5 @@
+<h1 align="center">PayLineGlobal Payment Gateway Example</h1>
 <p align="center"><a href="https://paylineglobal.com" target="_blank"><img src="https://raw.githubusercontent.com/PayLineGlobal/PayLineGlobal-Gateway-Example-main/main/public/paylineglobal/logo.png" width="400" alt="PayLineGlobal Logo"></a></p>
-<p align="center">PayLineGlobal Payment Gateway Example</p>
 
 ## About PayLineGlobal
 
